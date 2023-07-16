@@ -1,0 +1,1059 @@
+EMPID,EducationField,Salary ($),YearsAtCompany
+E00001,Life Sciences,19479,6
+E00002,Life Sciences,24907,10
+E00003,Other,2396,0
+E00004,Life Sciences,23159,8
+E00005,Medical,16632,2
+E00006,Life Sciences,11864,7
+E00007,Medical,9964,1
+E00008,Life Sciences,13335,1
+E00009,Life Sciences,8787,9
+E00010,Medical,16577,7
+E00011,Medical,16479,5
+E00012,Life Sciences,12682,9
+E00013,Life Sciences,15170,5
+E00014,Medical,8758,2
+E00015,Life Sciences,12947,4
+E00016,Life Sciences,10195,10
+E00017,Life Sciences,15053,6
+E00018,Medical,7324,1
+E00019,Life Sciences,22021,25
+E00020,Life Sciences,4306,3
+E00021,Other,8232,4
+E00022,Life Sciences,6986,5
+E00023,Life Sciences,21293,12
+E00024,Life Sciences,19281,0
+E00025,Medical,17102,4
+E00026,Other,10735,14
+E00027,Life Sciences,4681,10
+E00028,Marketing,21173,9
+E00029,Medical,2094,22
+E00030,Marketing,22822,2
+E00031,Medical,6670,1
+E00032,Other,19121,4
+E00033,Medical,16117,10
+E00034,Technical Degree,3335,1
+E00035,Medical,3020,2
+E00036,Medical,21923,5
+E00037,Marketing,3810,3
+E00038,Marketing,9687,2
+E00039,Life Sciences,13072,1
+E00040,Life Sciences,3193,5
+E00041,Other,10910,1
+E00042,Life Sciences,19715,1
+E00043,Life Sciences,10558,1
+E00044,Life Sciences,2975,9
+E00045,Medical,10781,12
+E00046,Technical Degree,16280,22
+E00047,Marketing,10034,9
+E00048,Life Sciences,10227,1
+E00049,Marketing,20445,9
+E00050,Life Sciences,4892,1
+E00051,Life Sciences,19294,1
+E00052,Technical Degree,11179,2
+E00053,Marketing,4009,4
+E00054,Medical,8302,4
+E00055,Marketing,21436,2
+E00056,Life Sciences,15146,15
+E00057,Life Sciences,11031,9
+E00058,Medical,16002,2
+E00059,Life Sciences,9528,7
+E00060,Life Sciences,2689,7
+E00061,Medical,10877,9
+E00062,Life Sciences,5456,10
+E00063,Medical,16701,27
+E00064,Life Sciences,2354,21
+E00065,Technical Degree,8202,17
+E00066,Medical,19730,5
+E00067,Life Sciences,22656,6
+E00068,Life Sciences,18787,1
+E00069,Medical,5868,3
+E00070,Medical,21777,1
+E00071,Life Sciences,24668,4
+E00072,Life Sciences,4956,5
+E00073,Medical,18775,1
+E00074,Life Sciences,7346,10
+E00075,Life Sciences,22002,1
+E00076,Life Sciences,20682,11
+E00077,Marketing,23016,15
+E00078,Other,15067,0
+E00079,Medical,25258,5
+E00080,Medical,10425,4
+E00081,Life Sciences,15998,10
+E00082,Medical,26278,6
+E00083,Life Sciences,18092,1
+E00084,Medical,15717,13
+E00085,Medical,17736,5
+E00086,Life Sciences,21698,6
+E00087,Technical Degree,9518,0
+E00088,Life Sciences,18725,4
+E00089,Life Sciences,15830,11
+E00090,Medical,13596,9
+E00091,Life Sciences,14115,22
+E00092,Marketing,8423,10
+E00093,Medical,19760,11
+E00094,Medical,3142,10
+E00095,Medical,24301,11
+E00096,Technical Degree,24001,4
+E00097,Other,17519,3
+E00098,Medical,8863,5
+E00099,Medical,24409,37
+E00100,Medical,25043,3
+E00101,Human Resources,23648,3
+E00102,Life Sciences,15178,1
+E00103,Life Sciences,19783,1
+E00104,Other,12482,16
+E00105,Life Sciences,15850,1
+E00106,Human Resources,21922,3
+E00107,Life Sciences,9755,8
+E00108,Marketing,26959,6
+E00109,Medical,26897,2
+E00110,Medical,23785,0
+E00111,Medical,25796,13
+E00112,Life Sciences,22887,9
+E00113,Human Resources,13871,5
+E00114,Life Sciences,13257,5
+E00115,Life Sciences,15000,1
+E00116,Life Sciences,14506,5
+E00117,Medical,5615,11
+E00118,Technical Degree,22952,9
+E00119,Life Sciences,2561,1
+E00120,Life Sciences,19494,25
+E00121,Life Sciences,22310,10
+E00122,Marketing,15480,7
+E00123,Life Sciences,4510,5
+E00124,Life Sciences,6462,20
+E00125,Life Sciences,20739,7
+E00126,Other,23300,5
+E00127,Medical,3465,40
+E00128,Marketing,26820,0
+E00129,Technical Degree,19299,2
+E00130,Medical,5549,15
+E00131,Medical,16090,3
+E00132,Marketing,6645,2
+E00133,Life Sciences,24788,2
+E00134,Life Sciences,21196,9
+E00135,Life Sciences,8916,8
+E00136,Medical,2819,3
+E00137,Life Sciences,25150,4
+E00138,Life Sciences,14590,15
+E00139,Life Sciences,24835,2
+E00140,Human Resources,13982,11
+E00141,Medical,10224,5
+E00142,Medical,9752,6
+E00143,Technical Degree,2302,3
+E00144,Life Sciences,23910,5
+E00145,Medical,22812,8
+E00146,Technical Degree,10415,3
+E00147,Medical,11162,5
+E00148,Life Sciences,12888,7
+E00149,Life Sciences,6961,5
+E00150,Medical,16102,1
+E00151,Medical,8504,20
+E00152,Marketing,11439,10
+E00153,Marketing,16047,7
+E00154,Life Sciences,10901,17
+E00155,Marketing,15589,9
+E00156,Technical Degree,26283,10
+E00157,Medical,13983,1
+E00158,Medical,11873,1
+E00159,Marketing,8552,12
+E00160,Marketing,11314,4
+E00161,Medical,11992,2
+E00162,Medical,5970,2
+E00163,Medical,6672,5
+E00164,Life Sciences,23402,5
+E00165,Medical,25326,1
+E00166,Life Sciences,17053,5
+E00167,Life Sciences,4609,9
+E00168,Life Sciences,8053,10
+E00169,Life Sciences,12930,8
+E00170,Life Sciences,12430,5
+E00171,Technical Degree,13364,5
+E00172,Technical Degree,20989,0
+E00173,Medical,15062,8
+E00174,Medical,11012,12
+E00175,Life Sciences,6319,5
+E00176,Life Sciences,13939,2
+E00177,Life Sciences,10515,3
+E00178,Life Sciences,9241,1
+E00179,Marketing,2137,24
+E00180,Life Sciences,6319,2
+E00181,Medical,6984,4
+E00182,Medical,5711,3
+E00183,Marketing,21728,4
+E00184,Medical,3425,3
+E00185,Medical,26250,4
+E00186,Medical,4673,8
+E00187,Medical,6499,20
+E00188,Medical,13339,24
+E00189,Life Sciences,14074,10
+E00190,Medical,7192,7
+E00191,Life Sciences,5678,33
+E00192,Medical,11781,7
+E00193,Life Sciences,15497,1
+E00194,Medical,5228,5
+E00195,Medical,20462,20
+E00196,Life Sciences,22977,8
+E00197,Medical,15986,6
+E00198,Medical,16439,5
+E00199,Life Sciences,7259,1
+E00200,Technical Degree,4185,7
+E00201,Technical Degree,9679,2
+E00202,Life Sciences,23793,7
+E00203,Medical,5972,5
+E00204,Medical,16523,7
+E00205,Medical,11354,1
+E00206,Marketing,24525,10
+E00207,Life Sciences,12392,4
+E00208,Medical,7703,8
+E00209,Life Sciences,14242,3
+E00210,Medical,12368,4
+E00211,Medical,25812,14
+E00212,Life Sciences,20925,11
+E00213,Life Sciences,12916,7
+E00214,Life Sciences,15736,10
+E00215,Technical Degree,8556,5
+E00216,Life Sciences,14674,1
+E00217,Marketing,22967,6
+E00218,Technical Degree,19757,6
+E00219,Medical,16840,19
+E00220,Marketing,17011,6
+E00221,Life Sciences,9945,13
+E00222,Medical,13248,3
+E00223,Other,10056,10
+E00224,Life Sciences,9647,16
+E00225,Medical,4381,5
+E00226,Life Sciences,8456,1
+E00227,Marketing,2539,9
+E00228,Medical,6599,11
+E00229,Marketing,9096,10
+E00230,Medical,14961,4
+E00231,Life Sciences,3300,2
+E00232,Technical Degree,4933,22
+E00233,Medical,25657,2
+E00234,Medical,24118,7
+E00235,Medical,22149,5
+E00236,Marketing,7744,17
+E00237,Life Sciences,21509,9
+E00238,Life Sciences,21030,33
+E00239,Life Sciences,20990,4
+E00240,Life Sciences,9571,3
+E00241,Medical,15417,3
+E00242,Marketing,12069,3
+E00243,Life Sciences,19877,1
+E00244,Technical Degree,24447,9
+E00245,Other,15970,24
+E00246,Medical,13523,2
+E00247,Life Sciences,14776,2
+E00248,Life Sciences,23687,11
+E00249,Medical,18697,3
+E00250,Life Sciences,5118,3
+E00251,Medical,22573,1
+E00252,Technical Degree,6420,19
+E00253,Life Sciences,22673,6
+E00254,Life Sciences,23016,3
+E00255,Marketing,10732,3
+E00256,Life Sciences,7505,4
+E00257,Medical,8007,9
+E00258,Medical,5949,21
+E00259,Life Sciences,23231,1
+E00260,Medical,11652,5
+E00261,Life Sciences,26062,5
+E00262,Life Sciences,19682,8
+E00263,Technical Degree,19737,6
+E00264,Technical Degree,14977,7
+E00265,Life Sciences,14935,0
+E00266,Medical,3687,0
+E00267,Medical,14408,9
+E00268,Life Sciences,18384,6
+E00269,Medical,7501,20
+E00270,Life Sciences,20251,15
+E00271,Medical,18938,36
+E00272,Life Sciences,10268,10
+E00273,Medical,2613,5
+E00274,Medical,22825,5
+E00275,Medical,10531,3
+E00276,Medical,11677,5
+E00277,Life Sciences,19100,7
+E00278,Medical,19191,8
+E00279,Life Sciences,26767,6
+E00280,Life Sciences,15815,10
+E00281,Medical,21016,5
+E00282,Life Sciences,24532,20
+E00283,Life Sciences,20260,10
+E00284,Technical Degree,15972,10
+E00285,Medical,22722,5
+E00286,Life Sciences,15881,17
+E00287,Life Sciences,19920,1
+E00288,Life Sciences,18899,2
+E00289,Medical,14180,3
+E00290,Life Sciences,4488,5
+E00291,Life Sciences,25594,3
+E00292,Technical Degree,26285,8
+E00293,Marketing,3909,2
+E00294,Marketing,8450,8
+E00295,Medical,11411,4
+E00296,Marketing,14864,20
+E00297,Life Sciences,25233,0
+E00298,Marketing,5100,11
+E00299,Life Sciences,7122,1
+E00300,Medical,16321,4
+E00301,Life Sciences,15896,22
+E00302,Medical,9724,0
+E00303,Medical,4824,8
+E00304,Technical Degree,12241,8
+E00305,Medical,10942,18
+E00306,Life Sciences,6927,9
+E00307,Life Sciences,16985,13
+E00308,Life Sciences,26707,10
+E00309,Life Sciences,17056,5
+E00310,Technical Degree,10077,5
+E00311,Human Resources,17822,2
+E00312,Life Sciences,20308,24
+E00313,Life Sciences,7747,2
+E00314,Life Sciences,23364,10
+E00315,Medical,5355,21
+E00316,Life Sciences,10675,8
+E00317,Technical Degree,17810,7
+E00318,Medical,17747,8
+E00319,Life Sciences,20938,4
+E00320,Technical Degree,24624,13
+E00321,Life Sciences,5242,5
+E00322,Marketing,7143,7
+E00323,Medical,10557,7
+E00324,Medical,24737,3
+E00325,Medical,11934,10
+E00326,Life Sciences,14034,10
+E00327,Medical,21141,21
+E00328,Medical,17778,1
+E00329,Marketing,4317,7
+E00330,Life Sciences,16375,3
+E00331,Life Sciences,6227,9
+E00332,Marketing,22107,5
+E00333,Life Sciences,16885,4
+E00334,Life Sciences,9262,1
+E00335,Other,9278,10
+E00336,Medical,13273,4
+E00337,Other,4759,7
+E00338,Other,7621,3
+E00339,Marketing,5431,10
+E00340,Marketing,3415,8
+E00341,Medical,23177,6
+E00342,Life Sciences,15682,11
+E00343,Medical,25713,11
+E00344,Marketing,11866,7
+E00345,Technical Degree,18264,16
+E00346,Life Sciences,16092,4
+E00347,Medical,10110,5
+E00348,Medical,25751,0
+E00349,Life Sciences,15901,1
+E00350,Life Sciences,16928,4
+E00351,Technical Degree,24017,3
+E00352,Medical,3956,8
+E00353,Medical,23978,0
+E00354,Medical,17001,7
+E00355,Technical Degree,6069,2
+E00356,Life Sciences,20156,8
+E00357,Other,17078,1
+E00358,Technical Degree,9150,3
+E00359,Medical,15276,1
+E00360,Medical,7246,13
+E00361,Medical,2967,3
+E00362,Life Sciences,22495,7
+E00363,Medical,2851,3
+E00364,Marketing,9150,1
+E00365,Medical,17663,5
+E00366,Medical,16044,1
+E00367,Marketing,9558,8
+E00368,Technical Degree,2755,4
+E00369,Marketing,6110,6
+E00370,Life Sciences,7551,2
+E00371,Life Sciences,25422,1
+E00372,Life Sciences,18168,3
+E00373,Life Sciences,19394,1
+E00374,Medical,17881,5
+E00375,Life Sciences,20750,7
+E00376,Other,12066,5
+E00377,Life Sciences,14862,7
+E00378,Life Sciences,11868,2
+E00379,Marketing,4652,5
+E00380,Life Sciences,23258,5
+E00381,Marketing,5915,5
+E00382,Technical Degree,17434,1
+E00383,Technical Degree,6582,6
+E00384,Medical,24440,2
+E00385,Medical,3809,10
+E00386,Technical Degree,3427,1
+E00387,Life Sciences,26914,18
+E00388,Marketing,22553,5
+E00389,Life Sciences,20490,5
+E00390,Life Sciences,21123,1
+E00391,Life Sciences,4345,25
+E00392,Medical,13436,1
+E00393,Medical,8509,4
+E00394,Marketing,12740,3
+E00395,Medical,4156,13
+E00396,Medical,15238,3
+E00397,Other,2227,5
+E00398,Life Sciences,12090,5
+E00399,Medical,23866,13
+E00400,Life Sciences,16193,4
+E00401,Life Sciences,8213,21
+E00402,Life Sciences,18256,7
+E00403,Technical Degree,19558,5
+E00404,Marketing,19566,10
+E00405,Medical,13535,10
+E00406,Medical,9396,2
+E00407,Medical,19609,5
+E00408,Life Sciences,9655,2
+E00409,Life Sciences,10310,5
+E00410,Life Sciences,12932,5
+E00411,Life Sciences,24793,5
+E00412,Life Sciences,3854,29
+E00413,Medical,26314,10
+E00414,Technical Degree,4386,6
+E00415,Technical Degree,21972,5
+E00416,Marketing,12253,2
+E00417,Life Sciences,12106,1
+E00418,Life Sciences,13022,20
+E00419,Life Sciences,3032,3
+E00420,Life Sciences,16734,5
+E00421,Medical,21526,10
+E00422,Technical Degree,18300,2
+E00423,Technical Degree,18437,1
+E00424,Other,2890,9
+E00425,Marketing,22102,1
+E00426,Life Sciences,9314,27
+E00427,Medical,7181,11
+E00428,Marketing,2845,18
+E00429,Medical,7389,5
+E00430,Life Sciences,2288,3
+E00431,Life Sciences,19225,5
+E00432,Life Sciences,23428,1
+E00433,Life Sciences,8416,7
+E00434,Marketing,11563,3
+E00435,Life Sciences,14394,13
+E00436,Medical,24619,7
+E00437,Medical,6705,4
+E00438,Marketing,18398,3
+E00439,Life Sciences,14295,8
+E00440,Life Sciences,22908,1
+E00441,Human Resources,11533,3
+E00442,Other,9260,2
+E00443,Medical,15318,10
+E00444,Technical Degree,9129,2
+E00445,Marketing,19658,9
+E00446,Life Sciences,9873,10
+E00447,Life Sciences,13430,14
+E00448,Marketing,18659,11
+E00449,Life Sciences,20364,20
+E00450,Life Sciences,17872,8
+E00451,Life Sciences,8346,6
+E00452,Medical,6950,10
+E00453,Other,16177,8
+E00454,Life Sciences,22808,7
+E00455,Technical Degree,22645,3
+E00456,Medical,22578,6
+E00457,Life Sciences,25291,5
+E00458,Marketing,8059,0
+E00459,Other,11373,1
+E00460,Other,2112,8
+E00461,Medical,4267,0
+E00462,Medical,6698,5
+E00463,Life Sciences,19921,10
+E00464,Technical Degree,23213,1
+E00465,Technical Degree,23848,6
+E00466,Medical,8984,2
+E00467,Life Sciences,5626,18
+E00468,Medical,24666,9
+E00469,Technical Degree,22087,10
+E00470,Other,23914,4
+E00471,Medical,5530,2
+E00472,Medical,22174,1
+E00473,Life Sciences,15701,6
+E00474,Life Sciences,2125,31
+E00475,Medical,21630,6
+E00476,Marketing,7428,5
+E00477,Other,9100,1
+E00478,Medical,7999,32
+E00479,Medical,26376,7
+E00480,Life Sciences,14168,6
+E00481,Life Sciences,14470,1
+E00482,Life Sciences,22794,6
+E00483,Medical,11512,3
+E00484,Other,14004,3
+E00485,Medical,6219,7
+E00486,Medical,5013,5
+E00487,Marketing,3010,3
+E00488,Life Sciences,11757,1
+E00489,Life Sciences,5718,10
+E00490,Other,2671,1
+E00491,Life Sciences,14561,0
+E00492,Medical,19627,8
+E00493,Life Sciences,17997,3
+E00494,Life Sciences,26894,2
+E00495,Technical Degree,2912,8
+E00496,Marketing,16346,4
+E00497,Technical Degree,24444,3
+E00498,Other,9358,2
+E00499,Medical,12145,2
+E00500,Marketing,20431,5
+E00501,Life Sciences,18089,6
+E00502,Medical,22653,1
+E00503,Medical,7507,14
+E00504,Life Sciences,7660,10
+E00505,Life Sciences,5630,1
+E00506,Life Sciences,17759,3
+E00507,Other,9606,10
+E00508,Medical,3487,6
+E00509,Life Sciences,19368,17
+E00510,Life Sciences,5335,13
+E00511,Medical,6729,9
+E00512,Medical,13934,3
+E00513,Medical,15174,4
+E00514,Medical,26999,1
+E00515,Life Sciences,3164,10
+E00516,Life Sciences,16900,1
+E00517,Medical,8544,3
+E00518,Life Sciences,15678,3
+E00519,Marketing,7791,7
+E00520,Life Sciences,18959,10
+E00521,Marketing,18597,2
+E00522,Medical,16673,6
+E00523,Life Sciences,15232,1
+E00524,Medical,3297,20
+E00525,Medical,17654,8
+E00526,Life Sciences,24785,2
+E00527,Technical Degree,20978,20
+E00528,Marketing,21703,10
+E00529,Technical Degree,23452,4
+E00530,Life Sciences,19383,9
+E00531,Life Sciences,6009,9
+E00532,Life Sciences,19373,7
+E00533,Marketing,11825,7
+E00534,Life Sciences,23772,18
+E00535,Life Sciences,13514,5
+E00536,Human Resources,8861,21
+E00537,Marketing,11924,2
+E00538,Life Sciences,4809,9
+E00539,Human Resources,19562,22
+E00540,Marketing,9983,2
+E00541,Life Sciences,3872,7
+E00542,Life Sciences,20335,8
+E00543,Life Sciences,15397,1
+E00544,Medical,2104,5
+E00545,Medical,10225,22
+E00546,Marketing,25275,8
+E00547,Life Sciences,2755,1
+E00548,Medical,20366,2
+E00549,Life Sciences,23683,2
+E00550,Medical,7360,5
+E00551,Medical,4344,4
+E00552,Human Resources,18767,8
+E00553,Medical,20420,10
+E00554,Medical,22929,4
+E00555,Medical,23398,7
+E00556,Marketing,17967,2
+E00557,Life Sciences,10919,2
+E00558,Life Sciences,4761,1
+E00559,Life Sciences,21146,10
+E00560,Medical,20471,1
+E00561,Life Sciences,4187,0
+E00562,Marketing,10084,34
+E00563,Other,5207,10
+E00564,Medical,22807,6
+E00565,Technical Degree,12388,8
+E00566,Medical,19630,2
+E00567,Life Sciences,10339,5
+E00568,Other,18686,6
+E00569,Medical,21199,5
+E00570,Life Sciences,14229,10
+E00571,Medical,26589,4
+E00572,Life Sciences,5288,2
+E00573,Medical,25549,8
+E00574,Technical Degree,3064,4
+E00575,Life Sciences,13551,4
+E00576,Medical,22670,5
+E00577,Marketing,24008,4
+E00578,Life Sciences,19905,5
+E00579,Life Sciences,26085,15
+E00580,Medical,7530,6
+E00581,Life Sciences,20317,3
+E00582,Life Sciences,24375,2
+E00583,Medical,9931,8
+E00584,Life Sciences,13305,3
+E00585,Life Sciences,16225,24
+E00586,Life Sciences,3445,0
+E00587,Life Sciences,26551,1
+E00588,Life Sciences,21821,5
+E00589,Medical,6881,4
+E00590,Life Sciences,6689,1
+E00591,Medical,25995,13
+E00592,Marketing,26507,3
+E00593,Other,12982,26
+E00594,Other,23361,9
+E00595,Life Sciences,23779,10
+E00596,Life Sciences,25761,31
+E00597,Life Sciences,13301,2
+E00598,Life Sciences,4051,4
+E00599,Medical,16374,2
+E00600,Human Resources,25527,5
+E00601,Life Sciences,19124,14
+E00602,Medical,11983,1
+E00603,Medical,20234,0
+E00604,Life Sciences,6153,1
+E00605,Life Sciences,11806,9
+E00606,Life Sciences,4284,4
+E00607,Life Sciences,8306,5
+E00608,Marketing,5860,9
+E00609,Medical,21519,9
+E00610,Life Sciences,5200,4
+E00611,Technical Degree,8842,9
+E00612,Other,18869,8
+E00613,Marketing,3698,8
+E00614,Human Resources,2243,3
+E00615,Medical,20898,8
+E00616,Medical,16571,0
+E00617,Marketing,5594,20
+E00618,Medical,5197,5
+E00619,Medical,21632,4
+E00620,Medical,21816,9
+E00621,Medical,17852,6
+E00622,Life Sciences,2823,18
+E00623,Life Sciences,9250,5
+E00624,Life Sciences,2373,5
+E00625,Marketing,20715,5
+E00626,Marketing,19239,5
+E00627,Medical,22162,5
+E00628,Medical,19028,9
+E00629,Marketing,24558,1
+E00630,Medical,23965,5
+E00631,Life Sciences,19146,2
+E00632,Life Sciences,5044,3
+E00633,Medical,9068,2
+E00634,Life Sciences,8635,5
+E00635,Other,14363,5
+E00636,Life Sciences,23457,17
+E00637,Life Sciences,16612,10
+E00638,Life Sciences,9148,3
+E00639,Marketing,18154,5
+E00640,Technical Degree,10554,4
+E00641,Life Sciences,10778,5
+E00642,Life Sciences,8891,10
+E00643,Marketing,12102,2
+E00644,Life Sciences,23726,5
+E00645,Life Sciences,14871,6
+E00646,Medical,23522,3
+E00647,Marketing,22789,2
+E00648,Technical Degree,9129,13
+E00649,Medical,21222,5
+E00650,Life Sciences,20206,12
+E00651,Life Sciences,21782,5
+E00652,Marketing,17783,7
+E00653,Medical,4814,10
+E00654,Life Sciences,4544,31
+E00655,Life Sciences,7790,5
+E00656,Human Resources,22650,4
+E00657,Life Sciences,18016,1
+E00658,Medical,6054,4
+E00659,Life Sciences,7508,8
+E00660,Medical,24252,4
+E00661,Life Sciences,13384,1
+E00662,Life Sciences,23814,1
+E00663,Medical,22052,2
+E00664,Other,8870,1
+E00665,Life Sciences,4821,16
+E00666,Life Sciences,13137,3
+E00667,Life Sciences,10022,3
+E00668,Life Sciences,17725,7
+E00669,Medical,9834,2
+E00670,Medical,4303,2
+E00671,Life Sciences,17808,1
+E00672,Life Sciences,6896,1
+E00673,Medical,7824,5
+E00674,Other,3339,3
+E00675,Technical Degree,9255,6
+E00676,Life Sciences,11737,7
+E00677,Life Sciences,19170,10
+E00678,Other,22477,26
+E00679,Medical,5543,0
+E00680,Marketing,24406,9
+E00681,Other,23293,6
+E00682,Technical Degree,16292,15
+E00683,Life Sciences,3974,3
+E00684,Marketing,18798,1
+E00685,Marketing,20652,1
+E00686,Medical,11148,7
+E00687,Medical,3119,18
+E00688,Medical,12287,11
+E00689,Other,9947,1
+E00690,Technical Degree,13008,1
+E00691,Medical,17369,9
+E00692,Medical,25063,1
+E00693,Medical,13554,8
+E00694,Life Sciences,5518,16
+E00695,Life Sciences,12291,5
+E00696,Life Sciences,14922,14
+E00697,Life Sciences,23163,9
+E00698,Technical Degree,18203,3
+E00699,Medical,6179,5
+E00700,Life Sciences,13829,9
+E00701,Technical Degree,26227,1
+E00702,Medical,13938,17
+E00703,Other,9977,8
+E00704,Technical Degree,19899,5
+E00705,Life Sciences,6812,10
+E00706,Life Sciences,2560,8
+E00707,Life Sciences,17071,1
+E00708,Medical,6759,19
+E00709,Technical Degree,25952,7
+E00710,Medical,10322,3
+E00711,Life Sciences,20489,10
+E00712,Life Sciences,11479,0
+E00713,Life Sciences,17241,3
+E00714,Medical,11005,5
+E00715,Medical,6615,5
+E00716,Other,20161,6
+E00717,Medical,3735,18
+E00718,Technical Degree,12086,2
+E00719,Life Sciences,14039,9
+E00720,Life Sciences,8571,9
+E00721,Life Sciences,11539,5
+E00722,Life Sciences,4161,12
+E00723,Medical,12127,2
+E00724,Medical,24208,8
+E00725,Medical,24117,4
+E00726,Other,10074,4
+E00727,Life Sciences,11275,4
+E00728,Life Sciences,13493,0
+E00729,Technical Degree,13943,10
+E00730,Medical,6975,16
+E00731,Life Sciences,17802,8
+E00732,Medical,18275,1
+E00733,Medical,25725,3
+E00734,Medical,3334,8
+E00735,Life Sciences,6881,4
+E00736,Life Sciences,13119,2
+E00737,Life Sciences,22245,15
+E00738,Medical,23371,2
+E00739,Life Sciences,7060,21
+E00740,Life Sciences,4658,3
+E00741,Other,9541,3
+E00742,Marketing,7770,1
+E00743,Life Sciences,20165,1
+E00744,Life Sciences,21829,5
+E00745,Medical,14382,1
+E00746,Medical,12992,8
+E00747,Life Sciences,20284,21
+E00748,Life Sciences,4981,1
+E00749,Medical,21813,2
+E00750,Marketing,25846,32
+E00751,Medical,11737,12
+E00752,Life Sciences,24920,18
+E00753,Life Sciences,8269,17
+E00754,Medical,5083,21
+E00755,Life Sciences,21437,2
+E00756,Life Sciences,5404,9
+E00757,Medical,11135,8
+E00758,Marketing,12278,15
+E00759,Technical Degree,11038,6
+E00760,Medical,8318,6
+E00761,Marketing,23537,15
+E00762,Other,7858,1
+E00763,Life Sciences,15346,3
+E00764,Life Sciences,18410,1
+E00765,Medical,23384,1
+E00766,Other,2997,2
+E00767,Medical,12853,8
+E00768,Other,13848,4
+E00769,Marketing,22217,7
+E00770,Medical,25265,5
+E00771,Medical,21445,2
+E00772,Life Sciences,8392,9
+E00773,Medical,12154,5
+E00774,Medical,15669,14
+E00775,Medical,17323,9
+E00776,Medical,5268,1
+E00777,Marketing,17205,2
+E00778,Life Sciences,17258,1
+E00779,Life Sciences,21029,16
+E00780,Life Sciences,10332,10
+E00781,Technical Degree,12355,10
+E00782,Medical,11141,5
+E00783,Other,9096,6
+E00784,Technical Degree,18863,10
+E00785,Life Sciences,24608,19
+E00786,Technical Degree,26542,11
+E00787,Life Sciences,5869,3
+E00788,Life Sciences,15813,3
+E00789,Other,7909,8
+E00790,Medical,2326,20
+E00791,Life Sciences,21214,3
+E00792,Technical Degree,10333,8
+E00793,Medical,3129,13
+E00794,Life Sciences,22482,4
+E00795,Life Sciences,22266,6
+E00796,Life Sciences,24223,1
+E00797,Technical Degree,4605,7
+E00798,Medical,19373,1
+E00799,Medical,2993,2
+E00800,Medical,14399,22
+E00801,Medical,7160,1
+E00802,Other,17251,0
+E00803,Life Sciences,13401,3
+E00804,Life Sciences,22478,0
+E00805,Medical,16154,5
+E00806,Life Sciences,17970,15
+E00807,Life Sciences,15322,8
+E00808,Marketing,5569,8
+E00809,Life Sciences,26968,7
+E00810,Medical,8039,9
+E00811,Marketing,15596,12
+E00812,Marketing,20619,1
+E00813,Life Sciences,11535,8
+E00814,Life Sciences,13547,18
+E00815,Medical,17544,20
+E00816,Technical Degree,25326,2
+E00817,Life Sciences,8770,5
+E00818,Life Sciences,23238,11
+E00819,Life Sciences,21981,2
+E00820,Life Sciences,19911,5
+E00821,Marketing,18500,5
+E00822,Technical Degree,11879,9
+E00823,Life Sciences,15834,3
+E00824,Life Sciences,17940,7
+E00825,Medical,9558,1
+E00826,Medical,17689,10
+E00827,Human Resources,6004,7
+E00828,Life Sciences,22088,3
+E00829,Medical,13556,0
+E00830,Marketing,18385,5
+E00831,Life Sciences,9051,1
+E00832,Medical,6233,2
+E00833,Medical,17171,6
+E00834,Life Sciences,7950,4
+E00835,Life Sciences,5829,6
+E00836,Technical Degree,7108,5
+E00837,Life Sciences,11162,11
+E00838,Medical,13782,18
+E00839,Life Sciences,2447,21
+E00840,Marketing,2253,6
+E00841,Medical,16340,8
+E00842,Medical,6409,4
+E00843,Life Sciences,22955,1
+E00844,Medical,13421,8
+E00845,Marketing,2706,10
+E00846,Medical,21203,1
+E00847,Life Sciences,19588,7
+E00848,Medical,25755,13
+E00849,Other,26537,2
+E00850,Marketing,9489,4
+E00851,Life Sciences,14947,1
+E00852,Technical Degree,18575,5
+E00853,Medical,26342,10
+E00854,Life Sciences,7172,1
+E00855,Medical,20100,3
+E00856,Life Sciences,9961,14
+E00857,Life Sciences,12828,2
+E00858,Life Sciences,10826,6
+E00859,Medical,18640,7
+E00860,Life Sciences,26933,5
+E00861,Life Sciences,4223,0
+E00862,Marketing,24097,26
+E00863,Life Sciences,4279,0
+E00864,Human Resources,8429,5
+E00865,Life Sciences,20293,1
+E00866,Life Sciences,13192,4
+E00867,Medical,25440,0
+E00868,Medical,9490,2
+E00869,Medical,12449,6
+E00870,Life Sciences,10849,4
+E00871,Life Sciences,21026,7
+E00872,Life Sciences,3372,1
+E00873,Medical,4905,10
+E00874,Life Sciences,6865,7
+E00875,Life Sciences,11309,10
+E00876,Other,7744,20
+E00877,Marketing,5050,2
+E00878,Technical Degree,17433,6
+E00879,Medical,12858,4
+E00880,Marketing,10893,11
+E00881,Other,7331,2
+E00882,Life Sciences,2338,8
+E00883,Technical Degree,4235,7
+E00884,Medical,6311,14
+E00885,Technical Degree,11591,5
+E00886,Life Sciences,20623,4
+E00887,Medical,9369,11
+E00888,Medical,23281,1
+E00889,Marketing,13755,13
+E00890,Life Sciences,14377,9
+E00891,Life Sciences,9659,5
+E00892,Life Sciences,19982,10
+E00893,Medical,6148,1
+E00894,Life Sciences,5598,3
+E00895,Life Sciences,23474,10
+E00896,Medical,17089,6
+E00897,Medical,17198,10
+E00898,Life Sciences,16490,6
+E00899,Life Sciences,18625,8
+E00900,Medical,12124,1
+E00901,Technical Degree,9256,11
+E00902,Technical Degree,16620,1
+E00903,Life Sciences,3208,5
+E00904,Life Sciences,4204,6
+E00905,Life Sciences,8733,1
+E00906,Life Sciences,3423,7
+E00907,Technical Degree,21643,1
+E00908,Marketing,8751,22
+E00909,Marketing,21708,9
+E00910,Life Sciences,21221,1
+E00911,Life Sciences,16901,1
+E00912,Life Sciences,8040,1
+E00913,Life Sciences,9973,8
+E00914,Marketing,2493,24
+E00915,Medical,25592,33
+E00916,Life Sciences,25308,2
+E00917,Marketing,9946,11
+E00918,Marketing,6039,3
+E00919,Life Sciences,19196,29
+E00920,Medical,20002,9
+E00921,Medical,22534,11
+E00922,Medical,6842,4
+E00923,Life Sciences,17477,25
+E00924,Life Sciences,21833,10
+E00925,Life Sciences,6020,3
+E00926,Medical,5628,1
+E00927,Marketing,20364,21
+E00928,Life Sciences,2323,16
+E00929,Medical,14075,10
+E00930,Life Sciences,14222,2
+E00931,Medical,4257,7
+E00932,Medical,12858,8
+E00933,Technical Degree,17285,7
+E00934,Technical Degree,4732,3
+E00935,Medical,18830,2
+E00936,Medical,11693,10
+E00937,Medical,13035,0
+E00938,Medical,17334,19
+E00939,Life Sciences,26076,2
+E00940,Life Sciences,22845,10
+E00941,Medical,22154,5
+E00942,Technical Degree,23631,9
+E00943,Technical Degree,5747,7
+E00944,Life Sciences,22957,7
+E00945,Life Sciences,16392,9
+E00946,Life Sciences,22422,3
+E00947,Marketing,17235,5
+E00948,Life Sciences,21534,8
+E00949,Medical,25927,9
+E00950,Life Sciences,13352,8
+E00951,Life Sciences,8935,10
+E00952,Medical,22074,19
+E00953,Life Sciences,8319,3
+E00954,Life Sciences,14669,3
+E00955,Life Sciences,26582,20
+E00956,Medical,6992,19
+E00957,Life Sciences,4022,7
+E00958,Life Sciences,8532,4
+E00959,Life Sciences,5494,9
+E00960,Life Sciences,22455,9
+E00961,Marketing,4297,9
+E00962,Life Sciences,2690,9
+E00963,Life Sciences,17588,33
+E00964,Life Sciences,19461,7
+E00965,Medical,23553,10
+E00966,Medical,9075,3
+E00967,Medical,12023,10
+E00968,Life Sciences,6762,4
+E00969,Marketing,2261,15
+E00970,Life Sciences,18706,10
+E00971,Medical,6527,1
+E00972,Technical Degree,24439,5
+E00973,Life Sciences,19305,0
+E00974,Medical,10846,9
+E00975,Life Sciences,20392,6
+E00976,Marketing,9277,19
+E00977,Life Sciences,18235,19
+E00978,Technical Degree,15891,5
+E00979,Medical,13888,12
+E00980,Medical,17491,8
+E00981,Life Sciences,11882,1
+E00982,Marketing,23288,4
+E00983,Life Sciences,15748,4
+E00984,Technical Degree,6163,14
+E00985,Life Sciences,24232,5
+E00986,Medical,21057,10
+E00987,Life Sciences,3567,5
+E00988,Marketing,15395,4
+E00989,Life Sciences,13953,6
+E00990,Life Sciences,5182,6
+E00991,Life Sciences,19293,5
+E00992,Marketing,20497,3
+E00993,Life Sciences,3449,6
+E00994,Life Sciences,12477,3
+E00995,Medical,9731,5
+E00996,Medical,20003,20
+E00997,Marketing,7100,6
+E00998,Life Sciences,25681,8
+E00999,Medical,4050,4
+E01000,Human Resources,16616,20
+E01001,Other,17363,5
+E01002,Medical,19106,3
+E01003,Life Sciences,19944,2
+E01004,Technical Degree,4910,3
+E01005,Other,23577,7
+E01006,Other,9769,10
+E01007,Life Sciences,22710,4
+E01008,Other,22930,8
+E01009,Medical,5652,20
+E01010,Medical,22456,9
+E01011,Medical,12414,7
+E01012,Marketing,20763,5
+E01013,Life Sciences,16154,1
+E01014,Marketing,12761,3
+E01015,Life Sciences,8847,3
+E01016,Other,20284,4
+E01017,Life Sciences,22262,1
+E01018,Life Sciences,7679,5
+E01019,Life Sciences,22604,10
+E01020,Marketing,13494,3
+E01021,Technical Degree,10205,6
+E01022,Life Sciences,15182,3
+E01023,Technical Degree,25470,6
+E01024,Life Sciences,10494,3
+E01025,Medical,26703,20
+E01026,Medical,15211,5
+E01027,Marketing,23343,4
+E01028,Life Sciences,3708,5
+E01029,Medical,5561,4
+E01030,Other,23099,8
+E01031,Life Sciences,8386,13
+E01032,Marketing,15986,7
+E01033,Life Sciences,17181,1
+E01034,Life Sciences,8931,10
+E01035,Medical,19863,7
+E01036,Medical,24609,3
+E01037,Life Sciences,21081,2
+E01038,Technical Degree,14720,3
+E01039,Marketing,24795,2
+E01040,Technical Degree,3072,2
+E01041,Medical,25178,9
+E01042,Medical,23490,5
+E01043,Life Sciences,7973,5
+E01044,Medical,19764,9
+E01045,Technical Degree,21534,3
+E01046,Medical,8045,3
+E01047,Life Sciences,21158,5
+E01048,Medical,17456,4
+E01049,Other,15891,13
+E01050,Life Sciences,2939,2
+E01051,Medical,16458,12
+E01052,Marketing,9282,1
+E01053,Technical Degree,7152,1
+E01054,Life Sciences,2721,12
+E01055,Life Sciences,20948,8
+E01056,Medical,11929,14
+E01057,Technical Degree,15747,3
+E01058,Technical Degree,17485,5
